@@ -21,6 +21,7 @@ I initially was planning to use a LAMP or WAMP stack locally on my device, but r
 ## Setup:
 - Clone the github repo to a local device
 - Make sure to be in the right, root directory of the application
+- Run `composer install` to set up the vendor folder
 - Run `php -S localhost:8000` to locally run the application
 - Visit `localhost:8000` in the browser to view the application
 - Run `./vendor/bin/phpunit tests` to run tests with PHPUnit
