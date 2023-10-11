@@ -1,0 +1,1 @@
+{"version":1,"defects":{"TrainTest::testReadData":7,"TrainTest::testReadDataFromFile":7},"times":{"TrainTest::testReadData":0.006,"TrainTest::testSortData":0,"TrainTest::testReadDataFromFile":0.003,"TrainTest::testRemoveDuplicates":0.001}}
