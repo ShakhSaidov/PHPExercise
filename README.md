@@ -12,7 +12,7 @@ I initially was planning to use a LAMP or WAMP stack locally on my device, but r
 
 ## Further Improvements:
 - Set up CRUD (Create, Read, Update, Delete) functionality<br>
-- Set up hosting and provide a link along with your code<br>
+- Set up hosting<br>
 
 ## Prerequisites:
 - PHP
