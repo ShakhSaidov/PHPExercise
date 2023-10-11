@@ -1,0 +1,3 @@
+TRAIN_LINE, ROUTE_NAME, RUN_NUMBER, OPERATOR_ID 
+Train Line 1, Route 1, 101, Operator 1 
+Train Line 2, Route 2, 102, Operator 2 

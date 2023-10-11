@@ -1,0 +1,17 @@
+{
+    "name": "shakh/wellspring",
+    "description": "Wellspring Exercise",
+    "require": {
+        "phpunit/phpunit": "^10.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shakh Saidov"
+        }
+    ]
+}
